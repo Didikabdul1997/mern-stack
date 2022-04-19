@@ -1,0 +1,7 @@
+npx create-react-app frontend
+npm install react-router-dom@5 axios bulma
+npm start
+npm install react-bootstrap bootstrap
+
+shortcut:
+rafce
